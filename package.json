@@ -1,0 +1,33 @@
+{
+  "name": "kiss.io-rooms",
+  "version": "0.0.1-alpha.1",
+  "description": "rooms plugin for kiss.io. http://github.com/amit3vr/kiss.io",
+  "keywords": [
+    "kiss.io",
+    "kissio",
+    "rooms",
+    "rooms-plugin",
+    "plugin",
+    "realtime",
+    "multiplex",
+    "socket.io",
+    "socketio"
+  ],
+  "main": "room.plugin.js",
+  "author":
+  {
+    "name": "Amit Evron",
+    "url": "http://github.com/amit3vr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/amit3vr/kiss.io-rooms"
+  },
+  "bugs" : {
+    "url" : "https://github.com/amit3vr/kiss.io-rooms/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "kiss.io": "0.3.0-alpha.1"
+  }
+}
