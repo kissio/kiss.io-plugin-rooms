@@ -28,6 +28,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "kiss.io": "0.3.0-alpha.1"
+    "kiss.io": "^0.3.0-alpha.1"
   }
 }
